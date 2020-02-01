@@ -1,4 +1,4 @@
-// BUDGET CONTROLLER
+ // BUDGET CONTROLLER
 var budgetController = (function() {
   // function constructors
   var Expense = function(id, description, value) {
